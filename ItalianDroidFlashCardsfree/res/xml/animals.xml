@@ -1,0 +1,104 @@
+<deck>
+<card number="2" text="il gatto" />
+<card number="1" text="the cat" />
+<card number="4" text="l'anatra" />
+<card number="3" text="the duck" />
+<card number="6" text="l'asino" />
+<card number="5" text="the donkey" />
+<card number="8" text="il cavallo" />
+<card number="7" text="the horse" />
+<card number="10" text="la mucca" />
+<card number="9" text="the cow" />
+<card number="12" text="l'oca" />
+<card number="11" text="the goose" />
+<card number="14" text="il coniglio" />
+<card number="13" text="the rabbit" />
+<card number="16" text="la gallina" />
+<card number="15" text="the chicken" />
+<card number="18" text="la pecora" />
+<card number="17" text="the sheep" />
+<card number="20" text="il cane" />
+<card number="19" text="the dog" />
+<card number="22" text="l'uccello" />
+<card number="21" text="the bird" />
+<card number="24" text="la capra" />
+<card number="23" text="the goat" />
+<card number="26" text="il maiale" />
+<card number="25" text="the pig" />
+<card number="28" text="il topo" />
+<card number="27" text="the mouse" />
+<card number="30" text="il pappagallo" />
+<card number="29" text="the parrot" />
+<card number="32" text="il canguro" />
+<card number="31" text="the kangaroo" />
+<card number="34" text="la giraffa" />
+<card number="33" text="the giraffe" />
+<card number="36" text="la tigre" />
+<card number="35" text="the tiger" />
+<card number="38" text="il leone" />
+<card number="37" text="the lion" />
+<card number="40" text="l'elefante" />
+<card number="39" text="the elephant" />
+<card number="42" text="lo squalo" />
+<card number="41" text="the shark" />
+<card number="44" text="l'echidna" />
+<card number="43" text="the echidna" />
+<card number="46" text="la tartaruga" />
+<card number="45" text="the turtle" />
+<card number="48" text="la scimmia" />
+<card number="47" text="the monkey" />
+<card number="50" text="il pesce" />
+<card number="49" text="the fish" />
+<card number="52" text="la zebra" />
+<card number="51" text="the zebra" />
+<card number="54" text="l'aquila" />
+<card number="53" text="the eagle" />
+<card number="56" text="la balena" />
+<card number="55" text="the whale" />
+<card number="58" text="la lucertola" />
+<card number="57" text="the lizard" />
+<card number="60" text="il serpente" />
+<card number="59" text="the snake" />
+<card number="62" text="il lupo" />
+<card number="61" text="the wolf" />
+<card number="64" text="l'orso" />
+<card number="63" text="the bear" />
+<card number="66" text="il coccodrillo" />
+<card number="65" text="the crocodile" />
+<card number="68" text="lo struzzo" />
+<card number="67" text="the ostrich" />
+<card number="70" text="l'emu" />
+<card number="69" text="the emu" />
+<card number="72" text="il pipistrello" />
+<card number="71" text="the bat" />
+<card number="74" text="la farfalla" />
+<card number="73" text="the butterfly" />
+<card number="76" text="il delfino" />
+<card number="75" text="the dolphin" />
+<card number="78" text="il falcone" />
+<card number="77" text="the falcon" />
+<card number="80" text="la volpe" />
+<card number="79" text="the fox" />
+<card number="82" text="la mosca" />
+<card number="81" text="the fly" />
+<card number="84" text="la rana" />
+<card number="83" text="the frog" />
+<card number="86" text="l'ippopotamo" />
+<card number="85" text="the hippopotamus" />
+<card number="88" text="l'ape" />
+<card number="87" text="the bee" />
+<card number="90" text="la pantera" />
+<card number="89" text="the panther" />
+<card number="92" text="il gufo" />
+<card number="91" text="the owl" />
+<card number="94" text="la zanzara" />
+<card number="93" text="the mosquito" />
+<card number="96" text="il pelicano" />
+<card number="95" text="the pelican" />
+<card number="98" text="il piccione" />
+<card number="97" text="the pigeon" />
+<card number="100" text="il rinoceronte" />
+<card number="99" text="the rhinoceros" />
+<card number="102" text="il ragno" />
+<card number="101" text="the spider" />
+</deck>

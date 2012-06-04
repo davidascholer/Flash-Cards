@@ -1,0 +1,66 @@
+<deck>
+<card number="2" text="La verdura" />
+<card number="1" text="vegetables" />
+<card number="4" text="La patata" />
+<card number="3" text="potato" />
+<card number="6" text="I fagiolini" />
+<card number="5" text="beans" />
+<card number="8" text="I piselli" />
+<card number="7" text="peas" />
+<card number="10" text="La cipolla" />
+<card number="9" text="onions" />
+<card number="12" text="il cetriolo" />
+<card number="11" text="cucumber" />
+<card number="14" text="L' aglio" />
+<card number="13" text="garlic" />
+<card number="16" text="La lattuga" />
+<card number="15" text="lettuce" />
+<card number="18" text="La carota" />
+<card number="17" text="carrot" />
+<card number="20" text="I funghi" />
+<card number="19" text="mushrooms" />
+<card number="22" text="I broccoli" />
+<card number="21" text="broccoli" />
+<card number="24" text="Gli zucchini" />
+<card number="23" text="zucchini" />
+<card number="26" text="Gli spinaci" />
+<card number="25" text="spinach" />
+<card number="28" text="Le melanzane" />
+<card number="27" text="eggplant" />
+<card number="30" text="la frutta" />
+<card number="29" text="fruit" />
+<card number="32" text="il melone" />
+<card number="31" text="cantaloupe" />
+<card number="34" text="l' ananas" />
+<card number="33" text="pineapple" />
+<card number="36" text="le ciliegie" />
+<card number="35" text="cherries" />
+<card number="38" text="il pomodoro" />
+<card number="37" text="tomato" />
+<card number="40" text="il pompelmo" />
+<card number="39" text="grapefruit" />
+<card number="42" text="la pera" />
+<card number="41" text="pear" />
+<card number="44" text="il limone" />
+<card number="43" text="lemon" />
+<card number="46" text="la banana" />
+<card number="45" text="banana" />
+<card number="48" text="l' arancia (le arance)" />
+<card number="47" text="orange" />
+<card number="50" text="la mela" />
+<card number="49" text="apple" />
+<card number="52" text="l' albicocca" />
+<card number="51" text="apricot" />
+<card number="54" text="la pesca (le pesche)" />
+<card number="53" text="peach" />
+<card number="56" text="l' uva" />
+<card number="55" text="wine" />
+<card number="58" text="Le fragole" />
+<card number="57" text="strawberries" />
+<card number="60" text="I fichi" />
+<card number="59" text="figs" />
+<card number="62" text="il fruttivendolo" />
+<card number="61" text="fruit vendor" />
+<card number="64" text="frutta e verdura" />
+<card number="63" text="fruit shop/ stand" />
+</deck>

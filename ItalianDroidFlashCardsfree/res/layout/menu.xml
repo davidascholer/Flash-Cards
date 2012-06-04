@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_height="fill_parent"
+	xmlns:ads="http://schemas.android.com/apk/lib/com.google.ads"
+	android:orientation="vertical" android:background="@drawable/a1"
+	android:addStatesFromChildren="false" android:layout_width="wrap_content"
+	xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/LinLayout">
+	<FrameLayout android:layout_width="fill_parent" android:id="@+id/frameLayout1"
+		android:layout_height="wrap_content" android:layout_gravity="top">
+		<ImageView android:layout_width="fill_parent"
+			android:src="@drawable/italiandroidtext" android:layout_height="wrap_content"
+			android:id="@+id/imageView1" android:paddingTop="3dp"
+			android:layout_gravity="center_vertical"></ImageView>
+	</FrameLayout>
+	<RelativeLayout android:layout_width="fill_parent"
+		android:id="@+id/relativeLayout1" android:layout_height="fill_parent" android:layout_marginTop="-28dp">
+		<ListView android:layout_width="fill_parent" android:id="@+id/list"
+			android:layout_centerInParent="true" android:layout_centerHorizontal="true"
+			android:layout_alignWithParentIfMissing="true" android:layout_below="@+id/textView1"
+			android:cacheColorHint="#00000000" android:layout_above="@+id/fullScreenImageButton" android:layout_height="287dp" android:paddingTop="3dp"></ListView>
+		<ImageButton 
+			android:layout_centerInParent="true" android:layout_gravity="center_vertical|center_horizontal"
+			android:src="@drawable/gobutton"
+			android:background="@android:color/transparent"
+			android:paddingBottom="1dp" android:paddingTop="10dp"
+			android:layout_height="60dp" android:id="@+id/fullScreenImageButton"
+			android:layout_width="80dp" android:scaleType="fitXY" android:layout_above="@+id/adView"></ImageButton>
+	<com.google.ads.AdView android:id="@+id/adView" android:layout_alignParentBottom="true" android:layout_width="fill_parent" android:layout_height="wrap_content"
+	ads:adUnitId="a14e2769ceb1eec"
+	ads:adSize="BANNER"
+	ads:loadAdOnCreate="true"/>
+	</RelativeLayout>
+</LinearLayout>

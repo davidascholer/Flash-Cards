@@ -1,0 +1,90 @@
+<deck>
+<card number="2" text="l'agenzia di viaggi" />
+<card number="1" text="travel agency" />
+<card number="4" text="prenotare" />
+<card number="3" text="to reserve" />
+<card number="6" text="la prenotazione" />
+<card number="5" text="reservation" />
+<card number="8" text="fare il biglietto" />
+<card number="7" text="to by the ticket" />
+<card number="10" text="viaggiare" />
+<card number="9" text="to travel" />
+<card number="12" text="il viaggio" />
+<card number="11" text="trip" />
+<card number="14" text="la gita" />
+<card number="13" text="short trip excursion" />
+<card number="16" text="il pulllman" />
+<card number="15" text="tour bus" />
+<card number="18" text="la carta d'identita'" />
+<card number="17" text="I.D. card" />
+<card number="20" text="il passaporto" />
+<card number="19" text="passport" />
+<card number="22" text="all'estero" />
+<card number="21" text="abroad" />
+<card number="24" text="la nave" />
+<card number="23" text="ship" />
+<card number="26" text="la crociera" />
+<card number="25" text="cruise" />
+<card number="28" text="la dogana" />
+<card number="27" text="customs" />
+<card number="30" text="la fermata del treno (dell'autobus, del tram)" />
+<card number="29" text="train (bus, street car) stop" />
+<card number="32" text="scusi, sono liberi questi posti?" />
+<card number="31" text="excuse me are these seats free" />
+<card number="34" text="no sono occupati" />
+<card number="33" text="no they are taken" />
+<card number="36" text="dove scende lei?" />
+<card number="35" text="where do you get off" />
+<card number="38" text="il biglietto di andata e ritorno" />
+<card number="37" text="round-trip ticket" />
+<card number="40" text="confermare" />
+<card number="39" text="to confirm" />
+<card number="42" text="annullare" />
+<card number="41" text="to cancel" />
+<card number="44" text="la prima (seconda) classe" />
+<card number="43" text="first or second class" />
+<card number="46" text="il posto" />
+<card number="45" text="seat" />
+<card number="48" text="salire" />
+<card number="47" text="to get on" />
+<card number="50" text="scendere" />
+<card number="49" text="to get off" />
+<card number="52" text="la coincidenza" />
+<card number="51" text="connection" />
+<card number="54" text="in orario" />
+<card number="53" text="on time" />
+<card number="56" text="prendere il treno or l'aereo" />
+<card number="55" text="to miss the train or plain" />
+<card number="58" text="il cartello" />
+<card number="57" text="sign" />
+<card number="60" text="l'orologio" />
+<card number="59" text="time" />
+<card number="62" text="il viaggiatore" />
+<card number="61" text="passenger" />
+<card number="64" text="i bagagli" />
+<card number="63" text="luggage" />
+<card number="66" text="lo zaino" />
+<card number="65" text="backpack" />
+<card number="68" text="la valigia" />
+<card number="67" text="suitcase" />
+<card number="70" text="l'orario" />
+<card number="69" text="schedule" />
+<card number="72" text="in ritardo" />
+<card number="71" text="late" />
+<card number="74" text="il binario" />
+<card number="73" text="track" />
+<card number="76" text="il controllore" />
+<card number="75" text="conductor" />
+<card number="78" text="il treno" />
+<card number="77" text="train" />
+<card number="80" text="la carrozza" />
+<card number="79" text="train car" />
+<card number="82" text="la linea aerea" />
+<card number="81" text="airline" />
+<card number="84" text="la classe tursitica" />
+<card number="83" text="economy class" />
+<card number="86" text="il volo" />
+<card number="85" text="flight" />
+<card number="88" text="l'assistente di volo" />
+<card number="87" text="flight attendant" />
+</deck>

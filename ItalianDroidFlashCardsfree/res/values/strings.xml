@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, main!</string>
+    <string name="app_name">Italian Droid Flash Cards</string>
+    <dimen name="two_button_length">100px</dimen>
+    <dimen name="two_button_margin">13px</dimen>
+    <string name="Vocab_button">Vocabulary</string>
+    <string name="phrases_button">Phrases</string>
+    <color name="white">#FFFFFF</color>
+    <color name="red">#FF0000</color>
+    <dimen name="menu_button_height">60px</dimen>
+    <string name="options_menu_quit">Quit</string>
+        <string name="french_menu_option">Flip to Italian Deck</string>
+        <string name="english_menu_option">Flip to English Deck</string>
+    <color name="blue">#009244</color>
+    <dimen name="flashCardTextSize">35sp</dimen>
+    <string name="no_questions">No Questions Could Be Loaded</string>
+    <string name="select_all">Select All</string>
+    <string name="select_none">Select None</string>
+    <string name="speak">Pronounce This Word</string>
+    <string name="shuffle">Shuffle</string>
+    <string name="background">Set New Background</string>
+    <string name="select_bg">Select This Background</string>
+    <string name="dict">Use Google Translate</string>
+    <string name="back">Go Back</string>
+    <string name="help">Help</string>
+    <string name="ok">ok</string>
+</resources>

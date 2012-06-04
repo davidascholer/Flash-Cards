@@ -1,0 +1,180 @@
+<deck>
+<card number="2" text="buon giorno" />
+<card number="1" text="good morning" />
+<card number="4" text="buon pomeriggio" />
+<card number="3" text="good afternoon" />
+<card number="6" text="buona sera" />
+<card number="5" text="good evening" />
+<card number="8" text="buona notte" />
+<card number="7" text="good night" />
+<card number="10" text="stamattina" />
+<card number="9" text="this morning" />
+<card number="12" text="stasera" />
+<card number="11" text="this evening" />
+<card number="14" text="signore" />
+<card number="13" text="Sir" />
+<card number="16" text="signor" />
+<card number="15" text="Sir with a last name" />
+<card number="18" text="signora" />
+<card number="17" text="married woman" />
+<card number="20" text="signorina" />
+<card number="19" text="unmarried woman/young woman" />
+<card number="22" text="sì" />
+<card number="21" text="yes" />
+<card number="24" text="no" />
+<card number="23" text="no" />
+<card number="26" text="per piacere" />
+<card number="25" text="please" />
+<card number="28" text="per cortesia" />
+<card number="27" text="please" />
+<card number="30" text="per favore" />
+<card number="29" text="please" />
+<card number="32" text="grazie" />
+<card number="31" text="thank you" />
+<card number="34" text="prego" />
+<card number="33" text="you're welcome" />
+<card number="36" text="professore" />
+<card number="35" text="male professor" />
+<card number="38" text="professor" />
+<card number="37" text="male professor with a last name" />
+<card number="40" text="professoressa" />
+<card number="39" text="female professor" />
+<card number="42" text="studente" />
+<card number="41" text="male student" />
+<card number="44" text="studentessa" />
+<card number="43" text="female student" />
+<card number="46" text="ragazzo" />
+<card number="45" text="boy" />
+<card number="48" text="ragazza" />
+<card number="47" text="girl" />
+<card number="50" text="come sta?" />
+<card number="49" text="how are you formal?" />
+<card number="52" text="come stai?" />
+<card number="51" text="how are you informal?" />
+<card number="54" text="cosa vuol dire?" />
+<card number="53" text="what does it mean?" />
+<card number="56" text="va alla lavagna" />
+<card number="55" text="you go to the board" />
+<card number="58" text="andate alla lavagna" />
+<card number="57" text="you all go to the board" />
+<card number="60" text="non capisco" />
+<card number="59" text="I don't understand" />
+<card number="62" text="fa attenzione" />
+<card number="61" text="you pay attention" />
+<card number="64" text="fate attenzione" />
+<card number="63" text="you all pay attention" />
+<card number="66" text="bene" />
+<card number="65" text="good" />
+<card number="68" text="molto bene" />
+<card number="67" text="very good" />
+<card number="70" text="benissimo" />
+<card number="69" text="excellent" />
+<card number="72" text="non c'è male-" />
+<card number="71" text="not too bad" />
+<card number="74" text="abbastanza bene" />
+<card number="73" text="good enough" />
+<card number="76" text="male" />
+<card number="75" text="bad" />
+<card number="78" text="silenzio" />
+<card number="77" text="silent" />
+<card number="80" text="bravo" />
+<card number="79" text="good job to a boy" />
+<card number="82" text="brava" />
+<card number="81" text="good job to a girl" />
+<card number="84" text="leggi" />
+<card number="83" text="you read" />
+<card number="86" text="leggete" />
+<card number="85" text="you all read" />
+<card number="88" text="arrivederci" />
+<card number="87" text="good bye informal" />
+<card number="90" text="arrivederla" />
+<card number="89" text="good bye formal" />
+<card number="92" text="addio" />
+<card number="91" text="farewell" />
+<card number="94" text="ciao" />
+<card number="93" text="hi/bye" />
+<card number="96" text="come ti chiami?" />
+<card number="95" text="what is your name? informal" />
+<card number="98" text="come si chiama?" />
+<card number="97" text="what is your name? formal" />
+<card number="100" text="mi chiamo" />
+<card number="99" text="my name is" />
+<card number="102" text="io sono" />
+<card number="101" text="I am" />
+<card number="104" text="lui si chiama" />
+<card number="103" text="his name is" />
+<card number="106" text="lei si chiama" />
+<card number="105" text="her name is" />
+<card number="108" text="ad alta voce" />
+<card number="107" text="out loud" />
+<card number="110" text="mi scusi" />
+<card number="109" text="excuse me formal" />
+<card number="112" text="mi scusa" />
+<card number="111" text="excuse me informal" />
+<card number="114" text="presente" />
+<card number="113" text="here" />
+<card number="116" text="assente" />
+<card number="115" text="absent" />
+<card number="118" text="rispondi" />
+<card number="117" text="you respond" />
+<card number="120" text="rispondete" />
+<card number="119" text="you all respond" />
+<card number="122" text="apri il libro a pagina" />
+<card number="121" text="you open the book to page" />
+<card number="124" text="aprite il libro a pagina" />
+<card number="123" text="you all open the book to page" />
+<card number="126" text="chiudi il libro" />
+<card number="125" text="you close the book" />
+<card number="128" text="chiudete il libro" />
+<card number="127" text="you all close the book" />
+<card number="130" text="scrivi" />
+<card number="129" text="you write" />
+<card number="132" text="scrivete" />
+<card number="131" text="you all write" />
+<card number="134" text="come si dice?" />
+<card number="133" text="how do you say?" />
+<card number="136" text="sedetevi" />
+<card number="135" text="all sit down" />
+<card number="138" text="alza la mano" />
+<card number="137" text="you raise your hand" />
+<card number="140" text="alzate la mano" />
+<card number="139" text="you all raise your hand" />
+<card number="142" text="non lo so" />
+<card number="141" text="I don't know it" />
+<card number="144" text="va bene" />
+<card number="143" text="it's good" />
+<card number="146" text="tutti insieme" />
+<card number="145" text="all together" />
+<card number="148" text="di dove sei?" />
+<card number="147" text="where are you from?" />
+<card number="150" text="sono di" />
+<card number="149" text="I am from" />
+<card number="152" text="calmatevi" />
+<card number="151" text="you all calm down" />
+<card number="154" text="ieri" />
+<card number="153" text="yesterday" />
+<card number="156" text="oggi" />
+<card number="155" text="today" />
+<card number="158" text="domani" />
+<card number="157" text="tomorrow" />
+<card number="160" text="mi dispiace" />
+<card number="159" text="it displeases me" />
+<card number="162" text="sono spiacente" />
+<card number="161" text="I am sorry" />
+<card number="164" text="sto così così" />
+<card number="163" text="I am so so" />
+<card number="166" text="ci vediamo" />
+<card number="165" text="we will see each other" />
+<card number="168" text="ci sentiamo" />
+<card number="167" text="we will hear from each other" />
+<card number="170" text="alla prossima" />
+<card number="169" text="until the next time" />
+<card number="172" text="a presto" />
+<card number="171" text="see you soon" />
+<card number="174" text="salve" />
+<card number="173" text="formal hello" />
+<card number="176" text="di dove sei?" />
+<card number="175" text="where are you from?" />
+<card number="178" text="sono di" />
+<card number="177" text="I am from" />
+</deck>

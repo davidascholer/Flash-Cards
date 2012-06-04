@@ -1,0 +1,66 @@
+<deck>
+<card number="2" text="l'alluvione" />
+<card number="1" text="flood" />
+<card number="4" text="il ciclone" />
+<card number="3" text="cyclone" />
+<card number="6" text="il diluvio" />
+<card number="5" text="torrential downpour" />
+<card number="8" text="l'eruzione vulcanica" />
+<card number="7" text="volcanic eruption" />
+<card number="10" text="l'onda di marea" />
+<card number="9" text="tidal wave" />
+<card number="12" text="l'ondata di caldo" />
+<card number="11" text="heat wave" />
+<card number="14" text="la siccita" />
+<card number="13" text="drought" />
+<card number="16" text="il terremoto" />
+<card number="15" text="earthquake" />
+<card number="18" text="la tormenta" />
+<card number="17" text="blizzard" />
+<card number="20" text="il tornado" />
+<card number="19" text="tornado" />
+<card number="22" text="uragano" />
+<card number="21" text="hurricane" />
+<card number="24" text="la foschia" />
+<card number="23" text="mist" />
+<card number="26" text="il fulmine" />
+<card number="25" text="lightening" />
+<card number="28" text="la grandine" />
+<card number="27" text="hail" />
+<card number="30" text="il lampo" />
+<card number="29" text="flash of lightening" />
+<card number="32" text="la neve" />
+<card number="31" text="snow" />
+<card number="34" text="la nuvola" />
+<card number="33" text="cloud" />
+<card number="36" text="la pioggia" />
+<card number="35" text="rain" />
+<card number="38" text="il tuono" />
+<card number="37" text="thunder" />
+<card number="40" text="l'umidita'" />
+<card number="39" text="humidity" />
+<card number="42" text="coperto/a" />
+<card number="41" text="overcast" />
+<card number="44" text="piovoso/a" />
+<card number="43" text="rainy" />
+<card number="46" text="secco/a" />
+<card number="45" text="dry" />
+<card number="48" text="soleggiato/a" />
+<card number="47" text="sunny" />
+<card number="50" text="umido/a" />
+<card number="49" text="humid" />
+<card number="52" text="ventoso/a" />
+<card number="51" text="windy" />
+<card number="54" text="c'e' temporale" />
+<card number="53" text="it is stormy" />
+<card number="56" text="l'ombrello" />
+<card number="55" text="unmbrella" />
+<card number="58" text="l'impermeabile" />
+<card number="57" text="raincoat" />
+<card number="60" text="piovere" />
+<card number="59" text="to rain" />
+<card number="62" text="nevicare" />
+<card number="61" text="to snow" />
+<card number="64" text="tira vento" />
+<card number="63" text="it's windy" />
+</deck>

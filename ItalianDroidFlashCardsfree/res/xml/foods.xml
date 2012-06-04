@@ -1,0 +1,60 @@
+<deck>
+<card number="2" text="i piselli" />
+<card number="1" text="peas" />
+<card number="4" text="il manzo" />
+<card number="3" text="beef" />
+<card number="6" text="il pollo" />
+<card number="5" text="chicken" />
+<card number="8" text="il maiale" />
+<card number="7" text="pork" />
+<card number="10" text="il vitello" />
+<card number="9" text="veal" />
+<card number="12" text="il tacchino" />
+<card number="11" text="turkey" />
+<card number="14" text="l'agnello" />
+<card number="13" text="lamb" />
+<card number="16" text="la bistecca" />
+<card number="15" text="steak" />
+<card number="18" text="il prosciutto" />
+<card number="17" text="ham" />
+<card number="20" text="l'arancia" />
+<card number="19" text="orange" />
+<card number="22" text="la fragola" />
+<card number="21" text="strawberry" />
+<card number="24" text="la ciliegia" />
+<card number="23" text="cherry" />
+<card number="26" text="la pesca" />
+<card number="25" text="peach" />
+<card number="28" text="l'uva" />
+<card number="27" text="grapes" />
+<card number="30" text="la mela" />
+<card number="29" text="apple" />
+<card number="32" text="il pompelmo" />
+<card number="31" text="grapefruit" />
+<card number="34" text="l'ananas" />
+<card number="33" text="pineapple" />
+<card number="36" text="il melone" />
+<card number="35" text="melon" />
+<card number="38" text="il tonno" />
+<card number="37" text="tuna" />
+<card number="40" text="il salmone" />
+<card number="39" text="salmon" />
+<card number="42" text="l'aragosta" />
+<card number="41" text="lobster" />
+<card number="44" text="i gamberi" />
+<card number="43" text="shrimp" />
+<card number="46" text="le vongole" />
+<card number="45" text="clams" />
+<card number="48" text="i calmari" />
+<card number="47" text="squid" />
+<card number="50" text="la sogliola" />
+<card number="49" text="sole" />
+<card number="52" text="l'aceto" />
+<card number="51" text="vinegar" />
+<card number="54" text="il sale" />
+<card number="53" text="salt" />
+<card number="56" text="l'aglio" />
+<card number="55" text="garlic" />
+<card number="58" text="fresco" />
+<card number="57" text="fresh" />
+</deck>

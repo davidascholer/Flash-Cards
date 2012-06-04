@@ -1,0 +1,82 @@
+<deck>
+<card number="2" text="il padre" />
+<card number="1" text="father" />
+<card number="4" text="la madre" />
+<card number="3" text="mother" />
+<card number="6" text="i genitori" />
+<card number="5" text="parents" />
+<card number="8" text="il fratello" />
+<card number="7" text="brother" />
+<card number="10" text="la sorella" />
+<card number="9" text="sister" />
+<card number="12" text="il nonno" />
+<card number="11" text="grandpa" />
+<card number="14" text="la nonna" />
+<card number="13" text="grandma" />
+<card number="16" text="i nonni" />
+<card number="15" text="grandparents" />
+<card number="18" text="lo zio" />
+<card number="17" text="uncle" />
+<card number="20" text="la zia" />
+<card number="19" text="aunt" />
+<card number="22" text="gli zii" />
+<card number="21" text="the uncles or aunts" />
+<card number="24" text="il cugino" />
+<card number="23" text="boy cousin" />
+<card number="26" text="la cugina" />
+<card number="25" text="girl cousin" />
+<card number="28" text="i cugini" />
+<card number="27" text="the children" />
+<card number="30" text="il patrigno" />
+<card number="29" text="step father" />
+<card number="32" text="la matrigna" />
+<card number="31" text="step mother" />
+<card number="34" text="pui giovane" />
+<card number="33" text="younger" />
+<card number="36" text="pui vecchio" />
+<card number="35" text="older" />
+<card number="38" text="il nome" />
+<card number="37" text="name" />
+<card number="40" text="il cognome" />
+<card number="39" text="last name" />
+<card number="42" text="il suocero" />
+<card number="41" text="father in law" />
+<card number="44" text="la suocera" />
+<card number="43" text="mother in law" />
+<card number="46" text="il genero" />
+<card number="45" text="son in law" />
+<card number="48" text="la nuora" />
+<card number="47" text="dughter in law" />
+<card number="50" text="il cognato" />
+<card number="49" text="brother in law" />
+<card number="52" text="la cognata" />
+<card number="51" text="sister in law" />
+<card number="54" text="il marito" />
+<card number="53" text="husband" />
+<card number="56" text="la moglie" />
+<card number="55" text="wife" />
+<card number="58" text="i coniugi" />
+<card number="57" text="husband and wife" />
+<card number="60" text="il iglio" />
+<card number="59" text="son" />
+<card number="62" text="la figlia" />
+<card number="61" text="daughter" />
+<card number="64" text="i figli" />
+<card number="63" text="children, sons" />
+<card number="66" text="le figie" />
+<card number="65" text="daughters" />
+<card number="68" text="il nipote" />
+<card number="67" text="grandson" />
+<card number="70" text="la nipote" />
+<card number="69" text="grandaughter" />
+<card number="72" text="il nipote" />
+<card number="71" text="nephew" />
+<card number="74" text="la nipota" />
+<card number="73" text="niece" />
+<card number="76" text="il parente" />
+<card number="75" text="relatives" />
+<card number="78" text="il fratellastro" />
+<card number="77" text="step brother" />
+<card number="80" text="la sorellestra" />
+<card number="79" text="step sister" />
+</deck>

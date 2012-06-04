@@ -1,0 +1,114 @@
+<deck>
+<card number="2" text="un aeroplano, un aereo" />
+<card number="1" text="airplane" />
+<card number="4" text="un aeroporto" />
+<card number="3" text="airport" />
+<card number="6" text="un albergo (pl. alberghi)" />
+<card number="5" text="hotel" />
+<card number="8" text="un'amica (pl. amiche)" />
+<card number="7" text="friend (feminine)" />
+<card number="10" text="un amico" />
+<card number="9" text="friend (masculine)" />
+<card number="12" text="un'aranciata" />
+<card number="11" text="orange soda" />
+<card number="14" text="un autobus, un bus" />
+<card number="13" text="bus" />
+<card number="16" text="un'automobile, un'auto" />
+<card number="15" text="car" />
+<card number="18" text="una banca (pl. bancha)" />
+<card number="17" text="bank" />
+<card number="20" text="un bar" />
+<card number="19" text="bar" />
+<card number="22" text="un bicchiere" />
+<card number="21" text="drinking glass" />
+<card number="24" text="una bicicletta, una bici" />
+<card number="23" text="bicycle; bike" />
+<card number="26" text="un biglietto" />
+<card number="25" text="ticket" />
+<card number="28" text="un caffe" />
+<card number="27" text="coffee" />
+<card number="30" text="un cane" />
+<card number="29" text="dog" />
+<card number="32" text="una chiesa" />
+<card number="31" text="church" />
+<card number="34" text="un cinema" />
+<card number="33" text="movie theatre" />
+<card number="36" text="una citta" />
+<card number="35" text="city" />
+<card number="38" text="un euro" />
+<card number="37" text="euro" />
+<card number="40" text="una farmacia (pl. farmacie)" />
+<card number="39" text="pharmacy" />
+<card number="42" text="una fotografia, una foto" />
+<card number="41" text="photograph" />
+<card number="44" text="un gatto" />
+<card number="43" text="cat" />
+<card number="46" text="un gelato" />
+<card number="45" text="ice cream" />
+<card number="48" text="un'informazione (f)" />
+<card number="47" text="piece of information" />
+<card number="50" text="una lezione" />
+<card number="49" text="lesson; class" />
+<card number="52" text="un luogo (pl. luoghi)" />
+<card number="51" text="place" />
+<card number="54" text="una macchina" />
+<card number="53" text="car 2" />
+<card number="56" text="mezzi di trasporto" />
+<card number="55" text="means of transportation" />
+<card number="58" text="una motocicletta, una moto" />
+<card number="57" text="motorcycle" />
+<card number="60" text="un motorino" />
+<card number="59" text="moped; motorscooter" />
+<card number="62" text="un museo" />
+<card number="61" text="museum" />
+<card number="64" text="un negozio" />
+<card number="63" text="shop, store" />
+<card number="66" text="un nome" />
+<card number="65" text="first name; noun" />
+<card number="68" text="un ospedale" />
+<card number="67" text="hospital" />
+<card number="70" text="un panino" />
+<card number="69" text="sandwich; hard roll" />
+<card number="72" text="una piazza" />
+<card number="71" text="town square" />
+<card number="74" text="un ristorante" />
+<card number="73" text="restaurant" />
+<card number="76" text="uno scooter" />
+<card number="75" text="scooter" />
+<card number="78" text="una scuola" />
+<card number="77" text="school" />
+<card number="80" text="uno stadio" />
+<card number="79" text="stadium" />
+<card number="82" text="una stazione" />
+<card number="81" text="train station" />
+<card number="84" text="una strada" />
+<card number="83" text="street; road" />
+<card number="86" text="un supermercato" />
+<card number="85" text="supermarket" />
+<card number="88" text="un te'" />
+<card number="87" text="tea" />
+<card number="90" text="un teatro" />
+<card number="89" text="theatre" />
+<card number="92" text="un treno" />
+<card number="91" text="train" />
+<card number="94" text="un ufficio postale" />
+<card number="93" text="post office" />
+<card number="96" text="un'universita'" />
+<card number="95" text="university" />
+<card number="98" text="una valigia (pl. valige)" />
+<card number="97" text="suitcase" />
+<card number="100" text="una via" />
+<card number="99" text="street" />
+<card number="102" text="un viaggio" />
+<card number="101" text="trip" />
+<card number="104" text="un vino" />
+<card number="103" text="wine" />
+<card number="106" text="uno zaino" />
+<card number="105" text="backpack" />
+<card number="108" text="una zia" />
+<card number="107" text="aunt" />
+<card number="110" text="uno zio (pl. zii)" />
+<card number="109" text="uncle" />
+<card number="112" text="uno zoo" />
+<card number="111" text="zoo" />
+</deck>

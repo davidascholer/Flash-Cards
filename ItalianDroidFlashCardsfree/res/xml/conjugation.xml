@@ -1,0 +1,74 @@
+<deck>
+<card number="2" text="Dovere" />
+<card number="1" text="must, should" />
+<card number="4" text="Potere" />
+<card number="3" text="to be able to" />
+<card number="6" text="Volere" />
+<card number="5" text="to want" />
+<card number="8" text="Odiare" />
+<card number="7" text="to hate" />
+<card number="10" text="Amare" />
+<card number="9" text="to love" />
+<card number="12" text="Devo" />
+<card number="11" text="I must" />
+<card number="14" text="Devi" />
+<card number="13" text="you must" />
+<card number="16" text="Deve" />
+<card number="15" text="he/she/it must" />
+<card number="18" text="Dobbiamo" />
+<card number="17" text="we must" />
+<card number="20" text="Dovete" />
+<card number="19" text="you (plural) must" />
+<card number="22" text="Devono" />
+<card number="21" text="they must" />
+<card number="24" text="Posso" />
+<card number="23" text="I can" />
+<card number="26" text="Puoi" />
+<card number="25" text="you can" />
+<card number="28" text="Puo" />
+<card number="27" text="he/she/it can" />
+<card number="30" text="Possiamo" />
+<card number="29" text="we can" />
+<card number="32" text="Potete" />
+<card number="31" text="you (pl) can" />
+<card number="34" text="Possono" />
+<card number="33" text="They can" />
+<card number="36" text="Voglio" />
+<card number="35" text="I want" />
+<card number="38" text="Vuoi" />
+<card number="37" text="you want" />
+<card number="40" text="Vuole" />
+<card number="39" text="he/she/it wants" />
+<card number="42" text="Vogliamo" />
+<card number="41" text="we want" />
+<card number="44" text="Volete" />
+<card number="43" text="you (pl) want" />
+<card number="46" text="Vogliono" />
+<card number="45" text="they want" />
+<card number="48" text="Odio" />
+<card number="47" text="I hate" />
+<card number="50" text="Odii" />
+<card number="49" text="you hate" />
+<card number="52" text="Odia" />
+<card number="51" text="he/she/it hates" />
+<card number="54" text="Odiamo" />
+<card number="53" text="we hate" />
+<card number="56" text="Odiate" />
+<card number="55" text="you(pl) hate" />
+<card number="58" text="Odiono" />
+<card number="57" text="they hate" />
+<card number="60" text="Amo" />
+<card number="59" text="I love" />
+<card number="62" text="Ami" />
+<card number="61" text="you love" />
+<card number="64" text="Ama" />
+<card number="63" text="he/she/it loves" />
+<card number="66" text="Amiamo" />
+<card number="65" text="we love" />
+<card number="68" text="Amate" />
+<card number="67" text="you (pl) love" />
+<card number="70" text="Amano" />
+<card number="69" text="they love" />
+<card number="72" text="Cosa vuol dire?" />
+<card number="71" text="What does it mean?" />
+</deck>

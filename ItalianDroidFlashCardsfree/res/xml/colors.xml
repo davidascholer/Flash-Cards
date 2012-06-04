@@ -1,0 +1,32 @@
+<deck>
+<card number="2" text="nero" />
+<card number="1" text="black" />
+<card number="4" text="bianco" />
+<card number="3" text="white" />
+<card number="6" text="verde" />
+<card number="5" text="green" />
+<card number="8" text="blu" />
+<card number="7" text="dark blue" />
+<card number="10" text="azzurro" />
+<card number="9" text="light blue" />
+<card number="12" text="celeste" />
+<card number="11" text="sky blue" />
+<card number="14" text="rosso" />
+<card number="13" text="red" />
+<card number="16" text="rosa" />
+<card number="15" text="pink" />
+<card number="18" text="viola" />
+<card number="17" text="purple" />
+<card number="20" text="arancione" />
+<card number="19" text="orange" />
+<card number="22" text="marrone" />
+<card number="21" text="brown" />
+<card number="24" text="giallo" />
+<card number="23" text="yellow" />
+<card number="26" text="castano" />
+<card number="25" text="chestnut (brown)" />
+<card number="28" text="biondo" />
+<card number="27" text="blonde" />
+<card number="30" text="grigio" />
+<card number="29" text="grey" />
+</deck>

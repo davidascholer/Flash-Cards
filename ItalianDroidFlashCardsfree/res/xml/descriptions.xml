@@ -1,0 +1,80 @@
+<deck>
+<card number="2" text="biondo" />
+<card number="1" text="blonde" />
+<card number="4" text="bruno" />
+<card number="3" text="dark haired" />
+<card number="6" text="alto" />
+<card number="5" text="tall" />
+<card number="8" text="basso" />
+<card number="7" text="short" />
+<card number="10" text="giovane" />
+<card number="9" text="young" />
+<card number="12" text="brutto" />
+<card number="11" text="ugly" />
+<card number="14" text="ricco" />
+<card number="13" text="rich" />
+<card number="16" text="povero" />
+<card number="15" text="poor" />
+<card number="18" text="fortunato" />
+<card number="17" text="lucky" />
+<card number="20" text="sfortunato" />
+<card number="19" text="unlucky" />
+<card number="22" text="buono" />
+<card number="21" text="good" />
+<card number="24" text="cattivo" />
+<card number="23" text="bad" />
+<card number="26" text="bravo" />
+<card number="25" text="good, talented" />
+<card number="28" text="intelligente" />
+<card number="27" text="intelligent" />
+<card number="30" text="sportivo" />
+<card number="29" text="active" />
+<card number="32" text="stupido" />
+<card number="31" text="stupid" />
+<card number="34" text="pigro" />
+<card number="33" text="lazy" />
+<card number="36" text="simpatico" />
+<card number="35" text="nice, charming" />
+<card number="38" text="antipatico" />
+<card number="37" text="unpleasant" />
+<card number="40" text="generoso" />
+<card number="39" text="generous" />
+<card number="42" text="avaro" />
+<card number="41" text="stingy" />
+<card number="44" text="interessante" />
+<card number="43" text="interesting" />
+<card number="46" text="divertente" />
+<card number="45" text="amusing" />
+<card number="48" text="noioso" />
+<card number="47" text="boring" />
+<card number="50" text="contento" />
+<card number="49" text="content" />
+<card number="52" text="triste" />
+<card number="51" text="sad" />
+<card number="54" text="neri" />
+<card number="53" text="black" />
+<card number="56" text="Hai i capelli neri" />
+<card number="55" text="you have black hair" />
+<card number="58" text="hai i capelli biondi" />
+<card number="57" text="you are blonde" />
+<card number="60" text="hai i capelli bianchi" />
+<card number="59" text="you have white hair" />
+<card number="62" text="hai i capelli castani" />
+<card number="61" text="you have brown hair" />
+<card number="64" text="hai i capelli rossi" />
+<card number="63" text="you have red hair" />
+<card number="66" text="hai i capelli corti" />
+<card number="65" text="you have short hair" />
+<card number="68" text="hai capelli lunghi" />
+<card number="67" text="you have long hair" />
+<card number="70" text="hai gli occhi castani" />
+<card number="69" text="you have brown eyes" />
+<card number="72" text="hai gli occhi azzurri" />
+<card number="71" text="you have blue eyes" />
+<card number="74" text="hai gli occhi verdi" />
+<card number="73" text="you have green eyes" />
+<card number="76" text="hai gli occhi grigi" />
+<card number="75" text="you have gray eyes" />
+<card number="78" text="hai gli occhi neri" />
+<card number="77" text="you have black eyes" />
+</deck>

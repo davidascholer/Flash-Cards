@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:id="@+id/englishmode_true" android:title="@string/english_menu_option"
+		android:icon="@android:drawable/ic_menu_rotate" android:visible="false"
+		android:enabled="true"></item>
+	<item android:id="@+id/englishmode_false" android:title="@string/french_menu_option"
+		android:icon="@android:drawable/ic_menu_rotate" android:visible="true"
+		android:enabled="true"></item>
+	<item android:id="@+id/select_all" android:title="@string/select_all"
+		android:visible="true" android:enabled="true"></item>
+	<item android:id="@+id/select_none" android:title="@string/select_none"
+		android:visible="true" android:enabled="true"></item>
+	<item android:id="@+id/shuffle" android:title="@string/shuffle"
+		android:icon="@android:drawable/ic_menu_sort_by_size" android:visible="true"
+		android:enabled="true"></item>
+	<item android:id="@+id/back" android:title="@string/back"
+		android:icon="@android:drawable/ic_menu_revert" android:visible="true"
+		android:enabled="true"></item>
+	<item android:id="@+id/background" android:title="@string/background"
+		android:icon="@android:drawable/ic_menu_gallery" android:visible="true"
+		android:enabled="true"></item>
+	<item android:id="@+id/select_bg" android:title="@string/select_bg"
+		android:icon="@android:drawable/ic_menu_save" android:visible="true"
+		android:enabled="true"></item>
+	<item android:id="@+id/speak" android:title="@string/speak"
+		android:icon="@android:drawable/ic_btn_speak_now" android:visible="true"
+		android:enabled="true"></item>
+	<item android:id="@+id/use_dict" android:title="@string/dict"
+		android:icon="@android:drawable/ic_menu_search" android:visible="true"
+		android:enabled="true"></item>
+	<item android:id="@+id/help" android:title="@string/help"
+		android:icon="@android:drawable/ic_dialog_info"></item>
+	<item android:id="@+id/options_menu_close" android:title="@string/options_menu_quit"
+		android:icon="@android:drawable/ic_menu_close_clear_cancel"></item>
+</menu>
